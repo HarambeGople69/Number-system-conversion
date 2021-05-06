@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908243021853",
+    "firebase_url": "https://final-number-system.firebaseio.com",
+    "project_id": "final-number-system",
+    "storage_bucket": "final-number-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908243021853:android:aac54c97ab863a9c04d6f4",
+        "android_client_info": {
+          "package_name": "com.utsav.Number_Conversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908243021853-a867uvs1r63ac1jabiuuoqic2nge9dcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQeu-V5eR-sPWW6sTR2NwOVE6a-3tjW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908243021853-a867uvs1r63ac1jabiuuoqic2nge9dcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
